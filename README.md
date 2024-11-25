@@ -74,15 +74,15 @@ The analysis reveals that eShop customers have a significantly higher retention 
 
 We identified four customer clusters, which are visually represented in the snake diagram. Below diagram shows the variation in RFM values for each cluster type. Cluster 1 emerged as the prime customer group, characterized by the lowest recency values and the highest frequency, tenure, and monetary values. Conversely, Cluster 0 was identified as the least profitable group, with the highest recency values and the lowest tenure, frequency, and monetary values. Clusters 2 and 3 exhibit moderate values across these metrics, indicating different levels of customer engagement and profitability.
 
-![Cluster analysis](Images/Cluster analysis1.jpg)
+![Cluster analysis](Images/Cluster_analysis1.jpg)
 
 
 
-![Cluster analysis](Images/Cluster analysis2.jpg)
+![Cluster analysis](Images/Cluster_analysis1.jpg)
 
 
 
-![Cluster analysis](Images/Cluster analysis3.jpg)
+![Cluster analysis](Images/Cluster_analysis3.jpg)
 
 
 
