@@ -56,13 +56,19 @@ The dataset contains 3167194 rows and 11 columns
 
 ![Cohort Analysis E-shop](Images/RFM Analysis1.jpg)
 
+
+
 ![Cohort Analysis Non-E-shop](Images/RFM Analysis2.jpg)
+
+
 
 The analysis reveals that eShop customers have a significantly higher retention rate compared to non-eShop customers. This insight underscores the importance of the eShop channel in maintaining customer engagement and loyalty.
 
 ## RFM analysis
 
+
 ![RFM analysis](Images/RFM Table.jpg)
+
 
 ## Clustering using K-Means
 
@@ -70,9 +76,15 @@ We identified four customer clusters, which are visually represented in the snak
 
 ![Cluster analysis](Images/Cluster analysis1.jpg)
 
+
+
 ![Cluster analysis](Images/Cluster analysis2.jpg)
 
+
+
 ![Cluster analysis](Images/Cluster analysis3.jpg)
+
+
 
 ## Conclusion 
 The majority of our customers fall into Cluster 1 and Cluster 2. Cluster 1 contains our most valuable customers who contribute the highest monetary value and exhibit long-term loyalty. To convert Cluster 2 customers—who are also valuable but prone to churn—we propose developing digital marketing strategies to enhance their preference for the eShop. Another alternative is to expand the range of products available in the eShop.
