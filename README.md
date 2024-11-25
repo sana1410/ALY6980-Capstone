@@ -54,11 +54,11 @@ The dataset contains 3167194 rows and 11 columns
 
 ## Cohort analysis
 
-![Cohort Analysis E-shop](Images/RFM Analysis1.jpg)
+![Cohort Analysis Non-E-shop](Images/Cohort analysis 1_mew.jpg)
 
 
 
-![Cohort Analysis Non-E-shop](Images/RFM Analysis2.jpg)
+![Cohort Analysis Non-E-shop](Images/Cohort analysis 2_new.png.jpg)
 
 
 
