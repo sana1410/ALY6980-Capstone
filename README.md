@@ -1,5 +1,5 @@
 
-![Logo](Images/straumann-logo-png-transparent.png)
+![Logo](Images/logo.jpg)
 
 
 
@@ -44,6 +44,42 @@ The dataset contains 3167194 rows and 11 columns
 
 ## EDA
 
-![Basic EDA](Images/EDA1.png)
+![Basic EDA](Images/EDA1_new.jpg)
 
-![Basic EDA](Images/EDA2.png)
+![Basic EDA](Images/EDA2_new.jpg)
+
+![Basic EDA](Images/EDA3_new.jpg)
+
+![Basic EDA](Images/EDA4_new.jpg)
+
+## Cohort analysis
+
+![Cohort Analysis E-shop](Images/RFM Analysis1.jpg)
+
+![Cohort Analysis Non-E-shop](Images/RFM Analysis2.jpg)
+
+The analysis reveals that eShop customers have a significantly higher retention rate compared to non-eShop customers. This insight underscores the importance of the eShop channel in maintaining customer engagement and loyalty.
+
+## RFM analysis
+
+![RFM analysis](Images/RFM Table.jpg)
+
+## Clustering using K-Means
+
+We identified four customer clusters, which are visually represented in the snake diagram. Below diagram shows the variation in RFM values for each cluster type. Cluster 1 emerged as the prime customer group, characterized by the lowest recency values and the highest frequency, tenure, and monetary values. Conversely, Cluster 0 was identified as the least profitable group, with the highest recency values and the lowest tenure, frequency, and monetary values. Clusters 2 and 3 exhibit moderate values across these metrics, indicating different levels of customer engagement and profitability.
+
+![Cluster analysis](Images/Cluster analysis1.jpg)
+
+![Cluster analysis](Images/Cluster analysis2.jpg)
+
+![Cluster analysis](Images/Cluster analysis3.jpg)
+
+## Conclusion 
+The majority of our customers fall into Cluster 1 and Cluster 2. Cluster 1 contains our most valuable customers who contribute the highest monetary value and exhibit long-term loyalty. To convert Cluster 2 customers—who are also valuable but prone to churn—we propose developing digital marketing strategies to enhance their preference for the eShop. Another alternative is to expand the range of products available in the eShop.
+
+## References 
+Tavakoli, M., Ghanavati-Nejad, M., Tajally, A., & Sheikhalishahi, M. (2023, May 8). LRFM- based association rule mining for dentistry services patterns identification (Case study: a dental center in Iran). https://doi.org/10.21203/rs.3.rs-2139952/v1
+Bohorquez, N. (2021, August 26). Cohort Analysis with Python&#8217;s matplotlib, pandas, numpy and datetime. ActiveState. https://www.activestate.com/blog/cohort-analysis-with-python/
+Straumann Group. (n.d.). https://www.straumann.com/
+Mangano, F., Masunda, D., Napoletano, S., & Admakin, O. (2021). The future of dental implant surfaces: A biomimetic surface with regenerative and anti-infection properties. Frontiers in Bioengineering and Biotechnology, 9, 653305. https://doi.org/10.3389/fbioe.2021.653305
+Kushal, S., Kumari, P., & Mehta, N. (2020). Customer segmentation in healthcare using clustering techniques: A survey. International Journal of Intelligent Engineering & Systems, 13(6), 243-256. https://doi.org/10.22266/ijies2020.1231.22
